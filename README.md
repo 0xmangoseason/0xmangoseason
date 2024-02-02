@@ -1,4 +1,4 @@
-![image](https://github.com/0xmangoseason/0xmangoseason/assets/158004027/3d922e5a-2483-4c76-81c8-0f29e23100ca)
+[![image](https://github.com/0xmangoseason/0xmangoseason/assets/158004027/3d922e5a-2483-4c76-81c8-0f29e23100ca)](https://foundation.app/@nicholashuggins/nicholashuggins/3)
 
 Coding from an overgrown yard
 
