@@ -2,4 +2,12 @@
 
 Coding from an overgrown yard
 
-[`🔑 0x632731124B1221522d8ef43Cb983`](https://etherscan.io/token/0x454626500ba798201e5189005667dfe216e40b3e?a=0x632731124b1221522d8ef43cb9835fe3f3c16c45)
+---
+```json
+{
+  "address": "0x632731124b1221522d8ef43cb9835fe3f3c16c45",
+  "msg": "github/@0xmangoseason: gm 🤫",
+  "sig": "0x7b53af43292392321f32fa48909b3dfa7286935a73a1bbded3bbe32db1c0aa212e2958429d187dd54fb46b191440072ef7816eff24999976b5ae372eb08e7d051c",
+  "version": "2"
+}
+```
