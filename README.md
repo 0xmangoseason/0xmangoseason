@@ -3,6 +3,7 @@
 Coding from an overgrown yard
 
 ---
+[**Verify**](https://app.mycrypto.com/verify-message)
 ```json
 {
   "address": "0x632731124b1221522d8ef43cb9835fe3f3c16c45",
